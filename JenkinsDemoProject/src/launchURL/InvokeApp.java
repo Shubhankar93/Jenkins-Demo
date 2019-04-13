@@ -11,7 +11,7 @@ public class InvokeApp {
 	public void TestJenkins() {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\SHUBHANKAR\\Desktop\\eclipse\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.naukri.com/");
+		driver.get("https://www.google.com/");
 	
 	}
 	
